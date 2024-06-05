@@ -1,3 +1,5 @@
+// The file which contains all the configurations, initializations and establishes the connection to the database
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');

@@ -1,3 +1,5 @@
+// The file which contains the logic part to manipulate data in the database
+
 const { body, validationResult } = require('express-validator');
 const Author = require('../models/author');
 const Book = require('../models/book');

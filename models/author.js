@@ -1,3 +1,7 @@
+// The file which creates schemas in the database and are dto kind of a structure
+// The virtuals we create in it are not saved in the database but can be used by 
+// the controllers to manipulate data in the database
+
 const { DateTime } = require("luxon");
 const mongoose = require("mongoose");
 

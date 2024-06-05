@@ -1,3 +1,5 @@
+// The file which contains the endpoints of apis and the http methods
+
 const express = require("express");
 const router = express.Router();
 
